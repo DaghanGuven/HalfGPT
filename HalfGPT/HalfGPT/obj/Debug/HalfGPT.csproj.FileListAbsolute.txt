@@ -1,0 +1,11 @@
+C:\Users\Windows10\source\repos\HalfGPT\HalfGPT\bin\Debug\HalfGPT.exe.config
+C:\Users\Windows10\source\repos\HalfGPT\HalfGPT\bin\Debug\HalfGPT.exe
+C:\Users\Windows10\source\repos\HalfGPT\HalfGPT\bin\Debug\HalfGPT.pdb
+C:\Users\Windows10\source\repos\HalfGPT\HalfGPT\obj\Debug\HalfGPT.csproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\HalfGPT\HalfGPT\obj\Debug\HalfGPT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows10\source\repos\HalfGPT\HalfGPT\obj\Debug\HalfGPT.Form1.resources
+C:\Users\Windows10\source\repos\HalfGPT\HalfGPT\obj\Debug\HalfGPT.Properties.Resources.resources
+C:\Users\Windows10\source\repos\HalfGPT\HalfGPT\obj\Debug\HalfGPT.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\HalfGPT\HalfGPT\obj\Debug\HalfGPT.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\HalfGPT\HalfGPT\obj\Debug\HalfGPT.exe
+C:\Users\Windows10\source\repos\HalfGPT\HalfGPT\obj\Debug\HalfGPT.pdb
